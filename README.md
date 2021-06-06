@@ -17,7 +17,7 @@ valor desse veículo esse serviço consumiria a API da FIPE (https://deividfortu
 - Spring Boot Web
 - Spring Data JPA
 - Spring Starter Validation
-- Spring Cloud OpenFeing)
+- Spring Cloud OpenFeing
 - PostgreSql
 - Spring Tools Suites
 ## Executar a Aplicação
