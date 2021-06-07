@@ -94,3 +94,4 @@ Resposta:
 			}
 		]	
 	}
+![aplicativoRodando](https://user-images.githubusercontent.com/9325052/121036491-2af1ce80-c785-11eb-853b-ae764423e9b6.png)
